@@ -1,5 +1,5 @@
 name: boing_cli
-description: A starting point for Dart libraries or applications.
+description: A CLI to use Boing Boot framework.
 version: 0.0.1
 homepage: https://github.com/evandersondev/boing_cli
 
